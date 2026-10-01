@@ -1,0 +1,16 @@
+  335  python3 -m venv .venv
+  336  ls
+  337  ls -a
+  338  source .venv/bin/activate
+  339  which python3
+  340  pip list
+  341  pip install requests
+  342  pip list
+  343  deactivate
+  344  which python3
+  345  man ls
+  346  man ls
+  347  man man
+  348  cd cod
+  349  history
+  350  python3
